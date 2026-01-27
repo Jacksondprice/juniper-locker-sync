@@ -1,0 +1,4 @@
+upstreams:
+  sis: https://sis.juniper-locker-sync.internal/api
+  reporting: http://reports-staging.corp.local:8080
+  db_host: juniperlockersync-db.internal:5432
